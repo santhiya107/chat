@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624249048246",
+    "project_id": "chat-app-64122",
+    "storage_bucket": "chat-app-64122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624249048246:android:609a87b040139692b0ea17",
+        "android_client_info": {
+          "package_name": "com.venzo.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624249048246-46ngbqlkukp53b2ugc3di9ee6agnshce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvH8COSxijom3mnZyvb_ChBIs6PX9SORY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624249048246-46ngbqlkukp53b2ugc3di9ee6agnshce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
