@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "624249048246",
-    "project_id": "chat-app-64122",
-    "storage_bucket": "chat-app-64122.appspot.com"
+    "project_number": "396677779472",
+    "project_id": "flutter-chat-ebb98",
+    "storage_bucket": "flutter-chat-ebb98.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:624249048246:android:609a87b040139692b0ea17",
+        "mobilesdk_app_id": "1:396677779472:android:08fbaf98422a3a0f7efa95",
         "android_client_info": {
           "package_name": "com.venzo.chatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "624249048246-46ngbqlkukp53b2ugc3di9ee6agnshce.apps.googleusercontent.com",
+          "client_id": "396677779472-sbd99q35qmaclhs7fc87pslo0e3hoqur.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAvH8COSxijom3mnZyvb_ChBIs6PX9SORY"
+          "current_key": "AIzaSyBmvfQgHqQuh5QOOXTgVEt4nrpLVnKj_rc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "624249048246-46ngbqlkukp53b2ugc3di9ee6agnshce.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:624249048246:android:43e6804b9eb2c3f4b0ea17",
-        "android_client_info": {
-          "package_name": "demo.example"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "624249048246-46ngbqlkukp53b2ugc3di9ee6agnshce.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAvH8COSxijom3mnZyvb_ChBIs6PX9SORY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "624249048246-46ngbqlkukp53b2ugc3di9ee6agnshce.apps.googleusercontent.com",
+              "client_id": "396677779472-sbd99q35qmaclhs7fc87pslo0e3hoqur.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
